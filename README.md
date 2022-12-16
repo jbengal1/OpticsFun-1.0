@@ -1,4 +1,4 @@
-This is real-time optic simulation attempt, using pygame and more.
+Python semi-real-time 2D optic simulation, using pygame and numpy.
 
 07.09.22
 Current state of the project is not bad, though premature.
